@@ -177,16 +177,20 @@
 
           </section>
 
-  <br><br>
+  <br>
 
   </div>
+  <footer class="mt-5 text-center">
+  <section style="height: 300px;" class="container panda-bg-info d-flex justify-content-center d-flex align-items-center rounded-3" id="subscribe">
+            <div>
+                <h1>LET'S STAY IN TOUCH</h1>
+                <p>Get updates on sales, specials and more</p>
+            </div>
+        </section>
+        <p><small>©2025. Panda Commerce. All rights reserved. Sofia, Bulgaria.</small></p>
 
-  <br><br><br>
+    </footer>
 
-<footer style="margin-left: 700px; margin-right: 700px;margin-top: 500px;text-align:center; background-color: orange;">
-<span id="footer" style="font-color: white;">Delivering Products To Your Home With A Few Clicks</span>
-
-  </footer>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
 
