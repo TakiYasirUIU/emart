@@ -193,7 +193,7 @@
                 <p>Get updates on sales, specials and more</p>
             </div>
         </section>
-        <p><small>©2025. Panda Commerce. All rights reserved. Sofia, Bulgaria.</small></p>
+        <p><small>©2025. eMart. All rights reserved. Dhaka, Bangladesh.</small></p>
 
     </footer>
 
