@@ -12,13 +12,13 @@
 <body>
 
 
-    <div class="container">
+    <div class="container rounded  ">
         <div class="logo">
             <span id="log" style="color: white">eMart</span>
       
         </div>
       
-        <div class="right_container">
+        <div class="right_container rounded">
             
             <div class="bottom">
               <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -102,17 +102,89 @@
         
 </ul>
 </div>
-                      
+     <!-- image slider carousel -->
+
+     <section class="container">
+            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                  <div class="carousel-item active ">
+                      <div class="row p-5 mart-bg-info bg-gradient d-flex align-items-center ">
+                          <div class="col-lg-7">
+                              <h1>Cool Dude Headphone</h1>
+                              <p>
+                                This is the best headphone in the world for people who just want to waste time in front of funky world.
+                            </p>
+                            <h1>$420</h1>
+
+                          </div>
+                          <div class="col-lg-5">
+                            <img src="images/banner-images/headphone.png" class="d-block w-100" alt="...">
+
+                          </div>
+                      </div>
+
+
+
+                    
+                  </div>
+                  <div class="carousel-item">
+                    <div class="row p-5 mart-bg-info bg-gradient d-flex align-items-center ">
+                        <div class="col-lg-7">
+                            <h1>X-Box for your living room
+                            </h1>
+                            <p>
+                              This is the best headphone in the world for people who just want to waste time in front of funky world.
+                          </p>
+                          <h1>$600</h1>
+                          
+
+                        </div>
+                        <div class="col-lg-5">
+                          <img src="images/banner-images/xbox.png" class="d-block w-100" alt="...">
+
+                        </div>
+                    </div>
+                  </div>
+                  <div class="carousel-item">
+                    <div class="row p-5  mart-bg-info bg-gradient d-flex align-items-center ">
+                        <div class="col-lg-7">
+                            <h1>Mega LCD TV For Sports
+                            </h1>
+                            <p>
+                              This is the best headphone in the world for people who just want to waste time in front of funky world.
+                          </p>
+                          <h1>$1200</h1>
+                          
+
+                        </div>
+                        <div class="col-lg-5">
+                          <img src="images/banner-images/tv.png" class="d-block w-100" alt="...">
+
+                        </div>
+                    </div>
+                  </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Next</span>
+                </button>
+              </div>
+    
+
+          </section>
 
   <br><br>
--->
 
   </div>
 
-  <br><br><br><br><br><br>
+  <br><br><br>
 
 <footer style="margin-left: 700px; margin-right: 700px;margin-top: 500px;text-align:center; background-color: orange;">
-<span id="footer" style="font-color: black;">Delivering Products To Your Home With A Few Clicks</span>
+<span id="footer" style="font-color: white;">Delivering Products To Your Home With A Few Clicks</span>
 
   </footer>
 
