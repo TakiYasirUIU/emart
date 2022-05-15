@@ -60,31 +60,37 @@
                         
                     
                       </ul>
-                      <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Other Operations
-          </a>
-          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <li class="nav-item">
-                        <a class="nav-link" href="order/read.php">Manage Orders</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="display.php">Manage Items</a>
-                      </li>
                       <li class="nav-item">
                         <a class="nav-link" href="rating.php">Rate Items</a>
                       </li>
                       <li class="nav-item">
                         <a class="nav-link" href="index.php">Chat</a>
                       </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="verification/display.php">Verification</a>
+        </li>
+                      <li class="nav-item dropdown">
+                      
+                      <!-- ADMIN -->
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            ADMIN
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <li class="nav-item">
+          <li class="nav-item">
+                        <a class="nav-link" href="display.php">Manage Items</a>
                       </li>
+                        <a class="nav-link" href="order/read.php">Manage Orders</a>
+                      </li>
+                      
                       <li class="nav-item">
                         <a class="nav-link" href="delivery/index.php">Manage Deliveries</a>
                       </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="verification/display.php">Verification</a>
+                      </li>
           </ul>
-        </li>
+          <!-- upadat work for chat  -->
+                        
+          
 
                      
                     </ul>
