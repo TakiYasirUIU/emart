@@ -70,10 +70,11 @@
                       <li class="nav-item dropdown">
                       
                       <!-- ADMIN -->
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <!-- <a class="nav-link dropdown-toggle" href="adminlogin.php" id="navbarDropdown" role="button"  aria-expanded="false">
             ADMIN
-          </a>
-          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+          </a> -->
+          <a class="nav-link" href="adminlogin.php">ADMIN</a>
+          <!-- <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
           <li class="nav-item">
           <li class="nav-item">
                         <a class="nav-link" href="display.php">Manage Items</a>
@@ -87,7 +88,7 @@
                       <li class="nav-item">
                         <a class="nav-link" href="verification/display.php">Verification</a>
                       </li>
-          </ul>
+          </ul> -->
           <!-- upadat work for chat  -->
                         
           
