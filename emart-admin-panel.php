@@ -47,6 +47,7 @@
         <a href="order/read.php" class="list-group-item list-group-item-action list-group-item-success ms-5">Manage Orders</a>
         <a href="display.php" class="list-group-item list-group-item-action list-group-item-success ms-5">Manage Items</a>
         <a href="delivery/index.php" class="list-group-item list-group-item-action list-group-item-success ms-5">Manage Deliveries</a>
+        <a href="verification/display" class="list-group-item list-group-item-action list-group-item-success ms-5">Verification</a>
         
     </div>
 </section>
