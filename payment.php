@@ -91,7 +91,7 @@
               </div>
               
             </div>
-
+<!-- Email -->
 
             <div class="mb-3">
               <label for="email">Email <span class="text-muted"></span></label>
