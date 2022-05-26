@@ -30,7 +30,7 @@
                     <a class="nav-link" href="#backpack">Backpack</a>
                   </li> -->
                   <li class="nav-item">
-                    <a class="nav-link left-space" href="#subscribe">Log out</a>
+                    <a class="nav-link left-space" href="adminlogin.php">Log out</a>
                   </li>
                 </ul>
                 
